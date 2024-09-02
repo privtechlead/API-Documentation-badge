@@ -4,7 +4,6 @@
 
 
 * Business Impact of API Documentation
-* Documentation Best Practices
 * Documentation Tools and Techniques
 * Documentation Generators: PagerDuty, Stoplight, Redocly, Readme, Swaggerhub, Notion
 * Linting Tools: Vale, Spectral
