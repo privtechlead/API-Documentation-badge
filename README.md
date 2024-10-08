@@ -5,6 +5,6 @@
 
 * Business Impact of API Documentation
 * Documentation Tools and Techniques
-* Documentation Generators: PagerDuty, Stoplight, Redocly, Readme, Swaggerhub, Notion
-* Linting Tools: Vale, Spectral
-* OpenAPI Documents: Stripe, Twilio
+* PagerDuty, Stoplight, Redocly, Readme, Swaggerhub, Notion
+* Vale, Spectral
+* Stripe, Twilio
